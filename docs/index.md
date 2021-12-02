@@ -3,7 +3,7 @@ layout: cv
 title: Joshua Staples's Resume
 ---
 # Joshua Staples
-Computer Science student at BYU-Idaho with an emphasis on Machine Learning. 
+Computer Science student at BYU-Idaho with an emphasis in Machine Learning. 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
