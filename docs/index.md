@@ -67,8 +67,8 @@ __Service Missionary__, San Jose, CA
 
 `2016`
 __Eagle Scout__, Boy Scouts of America
-<!-- ### Footer
+### Footer
 
-Last updated: Dec 2021 -->
+Last updated: Dec 2021
 
 
