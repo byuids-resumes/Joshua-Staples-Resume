@@ -3,33 +3,27 @@ layout: cv
 title: Joshua Staples's Resume
 ---
 # Joshua Staples
-Computer Science student at BYU-Idaho with an emphasis in Machine Learning. 
+Upcoming Computer Science graduate looking to improve skills in an internship environment by working closely with a mentor. Possess skills related to college courses, and personal software projects, such as python development experience and team leadership.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="josh@stapleszoo.com">josh@stapleszoo.com</a>
+| <a href="https://github.com/joshua-staples/Selenium_Bot">Selenium/Python Automation Project</a>
+| <a href="linkedin.com/in/joshua s 81100986/">LinkedIn</a>
+| <a href="https://github.com/joshua-staples">GitHub</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected Spring 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.78 GPA
+- BYU-I Cyber Security Association (CSA)
+- Computer Science Tutor at BYU-Idaho
 
+## Work Experience
 
-## Related Experience
-
-### Internships
+### Fulfillment Business Expert
 
 `January 2028 - June 2028`
 __Pacific Northwest National Lab__, Richland, WA
